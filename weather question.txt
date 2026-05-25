@@ -1,0 +1,79 @@
+1. Find total records in dataset
+
+2. Show all unique cities
+
+3. Find highest temperature recorded
+
+4. Find lowest temperature recorded
+
+5. Find average temperature of all cities
+
+6. Find city-wise average temperature
+
+7. Find hottest city
+
+8. Find coldest city
+
+9. Find total rainfall by city
+
+10. Find total rainy days
+
+11. Find month with highest rainfall
+
+12. Find top 5 hottest days
+
+13. Find average pressure city-wise
+
+14. Find city with highest sunshine
+
+15. Find days where temperature exceeded 40
+
+16. Rank cities by average temperature using RANK()
+
+17. Dense rank cities by rainfall using DENSE_RANK()
+
+18. Assign row numbers for hottest days using ROW_NUMBER()
+
+19. Find hottest day in each city using window function
+
+20. Find second hottest day in each city
+
+21. Calculate running total rainfall
+
+22. Calculate running average temperature
+
+23. Compare current day and previous day temperature using LAG()
+
+24. Compare current day and next day temperature using LEAD()
+
+25. Find temperature difference from previous day
+
+26. Find highest rainfall day in each city
+
+27. Find top 3 hottest days overall using DENSE_RANK()
+
+28. Compare current rainfall with previous rainfall
+
+29. Rank cities month-wise by average temperature
+
+30. Find city contributing highest yearly rainfall
+
+31. Find duplicate weather records
+
+32. Find NULL values in dataset
+
+33. Find yearly average temperature trend
+
+34. Find monthly rainfall trend
+
+35. Find cities where average rainfall is above specific value
+
+36. Find days where wind speed was highest
+
+37. Find average wind speed city-wise
+
+38. Find pressure trend year-wise
+
+39. Find hottest month based on average temperature
+
+40. Find coldest month based on minimum temperature
